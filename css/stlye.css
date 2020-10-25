@@ -1,0 +1,35 @@
+header {
+  margin-top: 30px;
+  color: #ff5a00;
+}
+
+hr {
+  border-width: 3px;
+  border-color: #ff5a00;
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.swiper-slide {
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.swiper-slide.slide1 {
+  background-image: url(../img/slide1.png);
+}
+.swiper-slide.slide2 {
+  background-image: url(../img/slide6.jpg);
+}
+.swiper-slide.slide3 {
+  background-image: url(../img/slide2.png);
+}
