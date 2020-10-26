@@ -3,6 +3,29 @@ header {
   color: #ff5a00;
 }
 
+.container {
+  
+}
+.header-top {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 10px;
+
+}
+.link-sns {
+  list-style-type: none;
+  display: flex;
+}
+
+.link-sns li {
+  margin: 10px;
+
+}
+
+.link-sns a {
+  color: gray;
+}
+
 hr {
   border-width: 3px;
   border-color: #ff5a00;
@@ -32,4 +55,8 @@ h1 {
 }
 .swiper-slide.slide3 {
   background-image: url(../img/slide2.png);
+}
+
+.movie {
+  background-image: url(../)
 }
