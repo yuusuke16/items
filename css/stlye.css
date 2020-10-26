@@ -32,13 +32,27 @@ hr {
 }
 
 h1 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   margin: 0;
 }
 
 .align-right {
   text-align: right;
+}
+.align-right a {
+  color: #000;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.1rem;
+  align-items: center;
+}
+.align-right span {
+  color: #000;
+  font-size: 0.5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .swiper-slide {
