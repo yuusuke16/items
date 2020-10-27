@@ -78,6 +78,39 @@ h1 {
   background-image: url(../img/slide2.png);
 }
 
+.link-sns-row {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.link-sns-row li {
+  margin: 10px;
+
+}
+
+.link-sns-row a {
+  color: gray;
+  font-size: 30px;
+}
+
+.footer-nav {
+  display: flex;
+  padding-bottom: 15px;
+  justify-content: center;
+}
+.footer-nav a {
+  color: #000;
+  
+}
+
+.copyright {
+  background-color: #e5e5e5;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 33px;
+  margin-top: 40px;
+}
 .movie {
   background-image: url(../)
 }
