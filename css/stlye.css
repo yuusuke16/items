@@ -29,6 +29,10 @@ hr {
   border-color: #ff5a00;
 }
 
+th {
+  font-size: 20px;
+}
+
 .row {
   padding-top: 15px;
 }
@@ -76,6 +80,13 @@ h1 {
 }
 .swiper-slide.slide3 {
   background-image: url(../img/slide2.png);
+}
+.content h2 {
+  font-size: 25px;
+}
+
+.content span {
+  font-size: 15px;
 }
 
 .link-sns-row {
