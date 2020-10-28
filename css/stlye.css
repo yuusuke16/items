@@ -2,9 +2,6 @@ header {
   color: #ff5a00;
 }
 
-.container {
-  
-}
 .header-top {
   display: flex;
   border-bottom: 1px solid #e5e5e5;
@@ -31,10 +28,6 @@ hr {
 
 th {
   font-size: 20px;
-}
-
-td {
-  
 }
 
 .row {
@@ -70,6 +63,7 @@ h1 {
   margin-top: 5px;
 }
 
+/* swiper */
 .swiper-slide {
   height: 500px;
   background-size: cover;
@@ -85,6 +79,9 @@ h1 {
 .swiper-slide.slide3 {
   background-image: url(../img/slide2.png);
 }
+/* swiper */
+
+
 .content h2 {
   font-size: 25px;
 }
