@@ -1,11 +1,13 @@
 header {
   color: #ff5a00;
+  
 }
 
-.header-top {
-  display: flex;
+.header-top{
   border-bottom: 1px solid #e5e5e5;
+  
 }
+
 .link-sns {
   list-style-type: none;
   display: flex;
@@ -21,15 +23,6 @@ header {
   font-size: 15px;
 }
 
-hr {
-  border-width: 3px;
-  border-color: #ff5a00;
-}
-
-th {
-  font-size: 20px;
-}
-
 .row {
   padding-top: 15px;
 }
@@ -38,6 +31,16 @@ h1 {
   font-size: 20px;
   font-weight: bold;
   margin: 0;
+  margin-left: 35px;
+}
+
+hr {
+  border-width: 3px;
+  border-color: #ff5a00;
+}
+
+th {
+  font-size: 20px;
 }
 
 .align-right {
@@ -88,6 +91,10 @@ h1 {
 
 .content span {
   font-size: 15px;
+}
+
+.footer-top {
+  
 }
 
 .link-sns-row {
