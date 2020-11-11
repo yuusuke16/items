@@ -1,6 +1,6 @@
 .header_bg {
   background-image: url(../img/slide1.png);
-  width: 100%;
+  max-width: 1400px;
   height: 397px;
 }
 
