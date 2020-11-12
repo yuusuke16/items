@@ -2,6 +2,7 @@
   background-image: url(../img/slide1.png);
   max-width: 1400px;
   height: 397px;
+  background-size: cover;
 }
 
 header {
@@ -9,25 +10,24 @@ header {
   width: 950px;
 }
 
+.logo {
+  margin-top: 25px;
+}
+
 .telbox {
-  float: right;
-
-}
-
-p.head-title {
-  text-align: center;
-  margin: 48px 0 22px;
-  font-size: 30px;
-}
-
-p.txt {
-  text-align: center;
-}
-
-main {
+  margin-top: 25px;
   
- 
 }
+.telbox h3 {
+  padding-left: 145px;
+}
+
 h2 {
- 
+  text-align: center;
+  margin-top: 30px;
+  color: #ff5a00;
+}
+
+.itembox {
+  align :center ;
 }
