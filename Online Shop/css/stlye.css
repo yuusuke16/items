@@ -29,12 +29,26 @@ h2 {
 }
 
 .itembox {
-  align :center ;
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+.itembox a img{
+  margin-bottom: 10px;
+}
+img {
+  width: 70%;
 }
 
+.hp-btn {
+  text-align: center;
+  margin-bottom: 20px;
+}
 
-
-
+.hp-btn button {
+  color: #fff;
+  background-color: #ff5a00;
+  
+}
 
 .content h2 {
   font-size: 25px;
@@ -52,7 +66,6 @@ h2 {
 
 .link-sns-row li {
   margin: 10px;
-
 }
 
 .link-sns-row a {
@@ -76,12 +89,4 @@ h2 {
   padding-top: 35px;
   padding-bottom: 33px;
   margin-top: 40px;
-}
-
-.itembox {
-  text-align: center;
-  margin: 20px 0 20px 0;
-}
-img {
-  width: 70%;
 }
